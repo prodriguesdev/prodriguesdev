@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @prodriguesdev - Pedro Henrique Assunção Rodrigues
+- 🏠 Poços de Caldas - MG - Brazil
+- 🎓 Ciência da Computação - PUC Minas
+- ♦ Ruby on Rails Developer Jr
